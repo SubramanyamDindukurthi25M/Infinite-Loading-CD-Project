@@ -1,0 +1,11 @@
+1)To install bootstrap V4
+  npm install bootstrap@4
+
+2)To install sweetalert
+   npm i sweetalert
+
+3)To install axios
+  npm install axios
+
+4)To install react-infinite-scroll-component
+  npm install react-infinite-scroll-component
